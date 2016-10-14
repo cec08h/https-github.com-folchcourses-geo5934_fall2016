@@ -13,7 +13,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 2. | [cartopy](http://scitools.org.uk/cartopy/docs/latest) | Package designed for drawing maps for data analysis and visualization | Ishaan Bhatt
 3. | [fiona](https://github.com/Toblerity/Fiona) | Geospatial data abstraction library |  name
 4. | [osgeo](http://trac.osgeo.org/gdal/wiki/GdalOgrInPython) | Provides access to the Geospatial Data Abstraction Library (GDAL) | name
-5. | [networkx](http://networkx.github.io) | Create, manipulate, and analyze graphs and networks |  name
+5. | [networkx](http://networkx.github.io) | Create, manipulate, and analyze graphs and networks |  Jonathan Hansen
 6. | [pyproj](https://code.google.com/p/pyproj/) | Cartographic transformations and geodetic computations |  name
 7. | [Shapely](https://github.com/Toblerity/Shapely) | Geometric objects, predicates, and operations |  Hannah King
 8. | [scipy.spatial](http://docs.scipy.org/doc/scipy/reference/spatial.html) | Spatial algorithms and data structures |  name
