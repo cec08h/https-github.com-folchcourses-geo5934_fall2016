@@ -22,7 +22,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 12. | [geopy](https://github.com/geopy/geopy) | Client for several popular geocoding web services | name
 13. | [pyModis](http://www.pymodis.org) | Package to work with MODIS data | name
 14. | [rasterio](https://github.com/mapbox/rasterio) (Mac and Linux only) | Read and write geospatial raster datasets | name
-15. | [rasterstats](http://pythonhosted.org/rasterstats/) | For summarizing geospatial raster datasets based on vector geometries | name
+15. | [rasterstats](http://pythonhosted.org/rasterstats/) | For summarizing geospatial raster datasets based on vector geometries | Cierra Campbell
 16. | [Arcpy](http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm) | A site package for writing geoprocessing scripts using python in ArcGIS | Atoosa Izadifar
 17. | package | description | name
 18. | package | description | name
@@ -44,7 +44,7 @@ Dec. 1  |Alex Carrier
         |Ishaan Bhatt
         |Atoosa Izadifar
         | Jonathan Hansen
-        | name
+        | Cierra Campbell
         | name
         | name
 Dec. 8  | Hannah King
