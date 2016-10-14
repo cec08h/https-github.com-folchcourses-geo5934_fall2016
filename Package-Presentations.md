@@ -17,7 +17,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 6. | [pyproj](https://code.google.com/p/pyproj/) | Cartographic transformations and geodetic computations |  name
 7. | [Shapely](https://github.com/Toblerity/Shapely) | Geometric objects, predicates, and operations |  name
 8. | [scipy.spatial](http://docs.scipy.org/doc/scipy/reference/spatial.html) | Spatial algorithms and data structures |  name
-10. | [PIL] (http://effbot.org/imagingbook/pil-index.htm) | General image handling and basic image operations |  
+10. | [PIL] (http://effbot.org/imagingbook/pil-index.htm) | General image handling and basic image operations | Hannah King 
 11.  | [beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/) | Package designed for screen-scraping | name
 12. | [geopy](https://github.com/geopy/geopy) | Client for several popular geocoding web services | name
 13. | [pyModis](http://www.pymodis.org) | Package to work with MODIS data | name
