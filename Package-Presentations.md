@@ -20,7 +20,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 10. | [PIL] (http://effbot.org/imagingbook/pil-index.htm) | General image handling and basic image operations | Hannah King 
 11.  | [beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/) | Package designed for screen-scraping | name
 12. | [geopy](https://github.com/geopy/geopy) | Client for several popular geocoding web services | name
-13. | [pyModis](http://www.pymodis.org) | Package to work with MODIS data | name
+13. | [pyModis](http://www.pymodis.org) | Package to work with MODIS data | Carlos Cruz
 14. | [rasterio](https://github.com/mapbox/rasterio) (Mac and Linux only) | Read and write geospatial raster datasets | name
 15. | [rasterstats](http://pythonhosted.org/rasterstats/) | For summarizing geospatial raster datasets based on vector geometries | Cierra Campbell
 16. | [Arcpy](http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm) | A site package for writing geoprocessing scripts using python in ArcGIS | Atoosa Izadifar
@@ -45,7 +45,7 @@ Dec. 1  |Alex Carrier
         |Atoosa Izadifar
         | Jonathan Hansen
         | Cierra Campbell
-        | name
+        | Carlos Cruz
         | name
 Dec. 8  | Hannah King
         | namw
