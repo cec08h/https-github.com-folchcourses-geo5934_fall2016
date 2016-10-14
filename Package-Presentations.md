@@ -23,7 +23,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 13. | [pyModis](http://www.pymodis.org) | Package to work with MODIS data | name
 14. | [rasterio](https://github.com/mapbox/rasterio) (Mac and Linux only) | Read and write geospatial raster datasets | name
 15. | [rasterstats](http://pythonhosted.org/rasterstats/) | For summarizing geospatial raster datasets based on vector geometries | name
-16. | package | description | name
+16. | Arcpy | description | Atoosa Izadifar
 17. | package | description | name
 18. | package | description | name
 19. | package | description | name
