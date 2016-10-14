@@ -43,7 +43,7 @@ Nov. 17 | name
 Dec. 1  |Alex Carrier
         |Ishaan Bhatt
         |Atoosa Izadifar
-        | name
+        | Jonathan Hansen
         | name
         | name
         | name
