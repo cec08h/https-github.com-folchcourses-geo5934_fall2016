@@ -42,7 +42,7 @@ Nov. 17 | name
         | name
 Dec. 1  |Alex Carrier
         |Ishaan Bhatt
-        | name
+        |Atoosa Izadifar
         | name
         | name
         | name
