@@ -9,7 +9,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 
     | Package | Brief Description | Student
 --- | ------- | ----------------- | -------
-1. | [basemap](http://matplotlib.org/basemap) | Plot data on map projections with Matplotlib | name
+1. | [basemap](http://matplotlib.org/basemap) | Plot data on map projections with Matplotlib | Tessa Grasel
 2. | [cartopy](http://scitools.org.uk/cartopy/docs/latest) | Package designed for drawing maps for data analysis and visualization | Ishaan Bhatt
 3. | [fiona](https://github.com/Toblerity/Fiona) | Geospatial data abstraction library |  name
 4. | [osgeo](http://trac.osgeo.org/gdal/wiki/GdalOgrInPython) | Provides access to the Geospatial Data Abstraction Library (GDAL) | name
@@ -33,7 +33,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 
 Date    | Student
 ----    | -------
-Nov. 17 | name
+Nov. 17 | Tessa Grasel
         | name
         | name
         | name
