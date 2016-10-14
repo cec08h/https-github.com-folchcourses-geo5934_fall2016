@@ -40,7 +40,7 @@ Nov. 17 | name
         | name
         | name
         | name
-Dec. 1  | name
+Dec. 1  |Alex Carrier
         | name
         | name
         | name
@@ -48,7 +48,7 @@ Dec. 1  | name
         | name
         | name
 Dec. 8  | Hannah King
-        | Alex Carrier
+        | namw
         | name
         | name
         | name
