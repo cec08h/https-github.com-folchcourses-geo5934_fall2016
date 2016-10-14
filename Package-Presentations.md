@@ -15,7 +15,7 @@ You will notice that there are 11 lines in the package table.  I seeded the tabl
 4. | [osgeo](http://trac.osgeo.org/gdal/wiki/GdalOgrInPython) | Provides access to the Geospatial Data Abstraction Library (GDAL) | name
 5. | [networkx](http://networkx.github.io) | Create, manipulate, and analyze graphs and networks |  Jonathan Hansen
 6. | [pyproj](https://code.google.com/p/pyproj/) | Cartographic transformations and geodetic computations |  name
-7. | [Shapely](https://github.com/Toblerity/Shapely) | Geometric objects, predicates, and operations |  Hannah King
+7. | [Shapely](https://github.com/Toblerity/Shapely) | Geometric objects, predicates, and operations |  name
 8. | [scipy.spatial](http://docs.scipy.org/doc/scipy/reference/spatial.html) | Spatial algorithms and data structures |  name
 10. | [PIL] (http://effbot.org/imagingbook/pil-index.htm) | General image handling and basic image operations |  
 11.  | [beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/) | Package designed for screen-scraping | name
